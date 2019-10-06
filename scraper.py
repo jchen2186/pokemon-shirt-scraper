@@ -33,7 +33,6 @@ def main():
             urllib.request.urlretrieve("{}{}.jpg".format(BASE_IMG, i), img_path)
 
         time.sleep(1.5)
-        break
 
 if __name__ == "__main__":
     main()
