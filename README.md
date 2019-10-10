@@ -4,6 +4,9 @@ A web scraper that sorts and downloads all 151 Pokémon shirt designs by their d
 All credit goes to the awesome artists and companies that made this all possible.
 
 https://www.pokemon.co.jp/ex/shirts/en/
+
+Note: All designs are supervised by Tabito Mizuo and Yuichi Furuya (BEAMS)
+
 #### Misaki Yoshikawa
 * [Bulbasaur](https://www.pokemon.co.jp/ex/shirts/en/pattern_all/1.html)
 * [Raichu](https://www.pokemon.co.jp/ex/shirts/en/pattern_all/26.html)
@@ -176,5 +179,4 @@ https://www.pokemon.co.jp/ex/shirts/en/
 #### D
 * [Articuno](https://www.pokemon.co.jp/ex/shirts/en/pattern_all/144.html)
 #### Tabito Mizuo (BEAMS)
-All designs are supervised by Tabito Mizuo and Yuichi Furuya (BEAMS)
 * [Mew](https://www.pokemon.co.jp/ex/shirts/en/pattern_all/151.html)
